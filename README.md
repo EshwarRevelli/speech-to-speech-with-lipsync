@@ -216,6 +216,8 @@ python lip.py --input_video dubbed_test.mp4 --audio translated_audio.wav --outpu
   - **🔗 [LinkedIn](https://www.linkedin.com/in/srikar-vardhan/)**
   - **📚 [Google Scholar](https://scholar.google.com/citations?user=3X9GIJ8AAAAJ&hl=en)** 
   - **📄 [Resume](https://drive.google.com/file/d/1TKS_ZcytGK2MEh5jNeRXatgfw2FPMYoA/view?usp=sharing)** 
+-----
 
+[![Star History Chart](https://api.star-history.com/svg?repos=M-SRIKAR-VARDHAN/speech-to-speech-with-lipsync&type=Date)](https://star-history.com/#M-SRIKAR-VARDHAN/speech-to-speech-with-lipsync&Date)
 <!-- end list -->
 
