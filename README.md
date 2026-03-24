@@ -206,7 +206,15 @@ python lip.py --input_video dubbed_test.mp4 --audio translated_audio.wav --outpu
   - The default resolution for lip-sync is **480p**, which is CPU-friendly. You can increase it to **1080p** if you have a GPU.
   - The `wav2lip_gan.pth` checkpoint gives sharper facial results.
   - You can swap models to support any target language and retrain RVC for any speaker's voice.
+-----
 
+## Special Thanks to
+
+A thank you to **[Revelli Eshwar](https://github.com/EshwarRevelli)** for their support in this project.
+
+  - **📧 [Email](mailto:revellieshwar@gmail.com)**
+  - **💻 [GitHub](https://github.com/EshwarRevelli)**
+  - **🔗 [LinkedIn](https://www.linkedin.com/in/eshwar-revelli-75b1a12aa/)**
 -----
 
 ## 📬 Let’s Connect
